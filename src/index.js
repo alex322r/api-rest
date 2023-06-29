@@ -6,6 +6,6 @@ import { PORT } from "./config.js"
 
 
 app.listen(PORT, () => {
-    console.log(`server is listening in port ${PORT}`)
+    console.log(`server is listening in port ${PORT}...`)
 })
 
